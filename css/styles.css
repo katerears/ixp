@@ -97,6 +97,6 @@ h1 {
   background-repeat: no-repeat;
 }
 
-.intro-text {
+.back, .intro-text {
   margin: 24px 0;
 }
