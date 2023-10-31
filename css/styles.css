@@ -48,8 +48,8 @@ button {
   background-repeat: no-repeat;
 }
 
-#index-q1 a {
-  padding: 0 0 0 80px;
+.q-text {
+  margin-left: 80px;
 }
 
 #index-q2-container {
@@ -61,10 +61,6 @@ button {
   background-repeat: no-repeat;
 }
 
-#index-q2 a {
-  padding: 0 0 0 80px;
-}
-
 #index-q3-container {
   border: 2px solid #D3B34E;
 }
@@ -72,10 +68,6 @@ button {
 #index-q3 {
   background-image: url("../images/icon-what.svg");
   background-repeat: no-repeat;
-}
-
-#index-q3 a {
-  padding: 0 0 0 80px;
 }
 
 
