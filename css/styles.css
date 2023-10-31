@@ -108,7 +108,14 @@ p {
   margin: 24px 0;
 }
 
+#arrow {
+  display: inline-block;
+  width: 33px;
+  height: 19px;
+}
+
 #progress-bar {
+  display: inline-block;
   width: 276px;
   height: 19px;
   border-radius: 20px;
