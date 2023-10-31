@@ -33,7 +33,8 @@ button {
 
 #index-q1 {
   height: 121px;
-  padding: 24px;
+  padding: 24px 24px 24px 104px;
+  background-image: url("images/icon-how.svg");
   border-radius: 8px;
   border: 2px solid #00C37E;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
@@ -42,7 +43,8 @@ button {
 
 #index-q2 {
   height: 121px;
-  padding: 24px;
+  padding: 24px 24px 24px 104px;
+  background-image: url("images/icon-when.svg");
   border-radius: 8px;
   border: 2px solid #4EC3E0;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
@@ -51,7 +53,8 @@ button {
 
 #index-q3 {
   height: 121px;
-  padding: 24px;
+  padding: 24px 24px 24px 104px;
+  background-image: url("images/icon-when.svg");
   border-radius: 8px;
   border: 2px solid #D3B34E;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
