@@ -123,3 +123,8 @@ p {
   border-radius: 20px;
   background: #D9D9D9;
 }
+
+.timeline li {
+  margin-bottom: 12px;
+  border-bottom: 12px solid #1B1B1B;
+}
