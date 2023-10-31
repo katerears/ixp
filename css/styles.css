@@ -5,10 +5,6 @@ body {
   padding: 24px;
 }
 
-#page-title {
-  padding: 80px 0;
-}
-
 h1 {
   text-align: center;
   font-size: 24px;
@@ -16,3 +12,37 @@ h1 {
   font-weight: 700;
   line-height: normal;
 }
+
+button {
+  height: 94;
+  border-radius: 8px;
+  border: 2px solid #0076D6;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+#page-title {
+  padding: 80px 0;
+}
+
+#index-q1 {
+  height: 121px;
+  border-radius: 8px;
+  border: 2px solid #00C37E;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+#index-q2 {
+  height: 121px;
+  border-radius: 8px;
+  border: 2px solid #4EC3E0;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+#index-q3 {
+  height: 121px;
+  border-radius: 8px;
+  border: 2px solid #D3B34E;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+
