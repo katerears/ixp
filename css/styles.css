@@ -40,6 +40,10 @@ p {
   line-height: normal;
 }
 
+strong {
+  font-weight: 700;
+}
+
 .button {
   padding: 33px;
   border-radius: 8px;
