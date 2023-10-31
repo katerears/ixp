@@ -4,10 +4,11 @@ body {
   background: #ccc;
 }
 
-.container { 
-	max-width: 400px; 
+.container {
+  max-width: 400px; 
   margin: 0 auto;
   background: #fff;
+  padding: 24px;
 }
 
 a, a:active, a:hover, a:visited {
