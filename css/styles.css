@@ -125,7 +125,7 @@ p {
 }
 
 ol.timeline {
-  padding: 0;
+  padding: 12px;
 }
 
 .timeline li {
