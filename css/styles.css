@@ -5,6 +5,10 @@ body {
   padding: 24px;
 }
 
+a, a:active, a:hover, a:visited {
+  color: #1B1B1B;
+}
+
 h1 {
   text-align: center;
   font-size: 24px;
