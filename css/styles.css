@@ -49,6 +49,7 @@ button {
 }
 
 .q-text {
+  min-height: 56px;
   margin-left: 80px;
 }
 
